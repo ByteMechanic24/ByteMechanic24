@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Akshit 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5CE1BE&height=200&section=header&text=Akshit%20Singh&fontSize=55&fontColor=5CE1BE&animation=fadeIn&fontAlignY=35&desc=GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+AI+systems+that+plan+%26+reason;RAG+pipelines+with+FastAPI%2C+pgvector+%26+Redis;B.Tech+CSE+%40+GL+Bajaj+%7C+Greater+Noida%2C+India&font=Fira+Code&center=true&width=560&height=45&color=5CE1BE&vCenter=true&size=21&pause=1200" alt="typing animation" />
 
@@ -19,6 +19,10 @@
   <a href="https://leetcode.com/u/Calmhustler/">
     <img src="https://img.shields.io/badge/LeetCode-Calmhustler-5CE1BE?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ByteMechanic24&style=for-the-badge&color=5CE1BE&labelColor=0D1117&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -44,18 +48,18 @@ I'm a Computer Science undergrad who builds agentic AI systems — multi-agent o
 
 **Languages & Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,fastapi" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&color=5CE1BE" />
   <img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&color=5CE1BE" />
 </p>
 
 **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&color=5CE1BE" />
   <img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&color=5CE1BE" />
   <img src="https://img.shields.io/badge/pgvector-0D1117?style=flat-square&color=5CE1BE" />
@@ -63,11 +67,9 @@ I'm a Computer Science undergrad who builds agentic AI systems — multi-agent o
 
 **Cloud, DevOps & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_(EC2%2C_S3)-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-5CE1BE?style=flat-square&color=5CE1BE" />
 </p>
 
@@ -91,8 +93,9 @@ Built for gig workers in India at the Guidewire Devtrails Hackathon. Automates i
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 **🔹 [MeetMind](https://github.com/ByteMechanic24/MeetMind)**
-<!-- Not covered in your resume — add a one-line description here -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+A RAG-based project pairing Whisper for audio transcription with a ChromaDB + HuggingFace embeddings pipeline for retrieval over that content.
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 
 **🔹 [QRForge](https://github.com/ByteMechanic24/QRForge)**
 A lightweight tool for generating and customizing QR codes.
@@ -118,3 +121,35 @@ Bachelor of Technology in Computer Science and Engineering · Oct 2023 – Prese
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteMechanic24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5CE1BE&icon_color=5CE1BE&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMechanic24&layout=compact&hide_border=true&bg_color=0D1117&title_color=5CE1BE&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=ByteMechanic24&bg_color=0D1117&color=5CE1BE&line=5CE1BE&point=C9D1D9&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMechanic24&hide_border=true&background=0D1117&stroke=5CE1BE&ring=5CE1BE&fire=5CE1BE&currStreakLabel=5CE1BE" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ByteMechanic24/ByteMechanic24/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ByteMechanic24&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
+
+<div align="center">
+  <sub>Thanks for stopping by! ⭐ a repo if something here is useful to you.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5CE1BE,100:0D1117&height=100&section=footer" width="100%"/>
