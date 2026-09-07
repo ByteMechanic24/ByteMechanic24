@@ -1,155 +1,43 @@
-<div align="center">
+# 💫 About Me:
+# Hey 👋 I'm Akshit Kumar Singh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5CE1BE&height=200&section=header&text=Akshit%20Singh&fontSize=55&fontColor=5CE1BE&animation=fadeIn&fontAlignY=35&desc=GenAI%20%26%20Agentic%20AI%20Engineer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
+CSE student focused on Generative AI, Agentic Systems, and Backend Development.
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+multi-agent+AI+systems+that+plan+%26+reason;RAG+pipelines+with+FastAPI%2C+pgvector+%26+Redis;B.Tech+CSE+%40+GL+Bajaj+%7C+Greater+Noida%2C+India&font=Fira+Code&center=true&width=560&height=45&color=5CE1BE&vCenter=true&size=21&pause=1200" alt="typing animation" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit-singh) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ByteMechanic24) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twt7817@gmail.com)
 
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-  <a href="mailto:twt7817@gmail.com">
-    <img src="https://img.shields.io/badge/Email-twt7817%40gmail.com-5CE1BE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://linkedin.com/in/akshit-singh-749217271">
-    <img src="https://img.shields.io/badge/LinkedIn-Akshit_Singh-5CE1BE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/ByteMechanic24">
-    <img src="https://img.shields.io/badge/GitHub-ByteMechanic24-5CE1BE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://leetcode.com/u/Calmhustler/">
-    <img src="https://img.shields.io/badge/LeetCode-Calmhustler-5CE1BE?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
-  </a>
-</p>
+# 🧠 Generative AI & Agentic Systems:
+LangChain • LangGraph • Multi-Agent Orchestration • RAG • Prompt Engineering • Tool-Calling • Agno (phidata) • Eleven Labs API • Vector Databases (ChromaDB, Pinecone, pgvector)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ByteMechanic24&style=for-the-badge&color=5CE1BE&labelColor=0D1117&label=PROFILE+VIEWS" />
-</p>
+# 🚀 Featured Projects:
+### 🔹 [Synthex – Multi-Agent AI Research System](https://github.com/ByteMechanic24/Synthex)
+A 4-agent (Search, Reader, Writer, Critic) agentic workflow built with FastAPI + LangChain that autonomously produces and evaluates research reports using GPT-4o-mini and the Tavily Search API.  
+🔗 Live: [synthex-live.vercel.app](https://synthex-live.vercel.app)
 
----
+### 🔹 [MeetMind – AI Meeting Intelligence Platform](https://github.com/ByteMechanic24/MeetMind)
+Converts YouTube URLs or local audio/video into structured meeting intelligence (summaries, action items, decisions) using Whisper, LangChain, and Mistral AI, with RAG-based chat via ChromaDB.
 
-### 🧠 About Me
+### 🔹 [InSora / GigShield – AI-Powered Parametric Insurance Platform](https://github.com/ByteMechanic24/GigShield)
+An event-driven microservices platform for gig workers, built with Node.js, MongoDB, and Redis — cut claim verification latency by ~40% and query response time by ~30%.  
+🔗 Live: [gigshield-worker-application.onrender.com](https://gigshield-worker-application.onrender.com)
 
-I'm a Computer Science undergrad who builds agentic AI systems — multi-agent orchestration, RAG pipelines, and the backend infra that holds them together. Recent work spans adaptive learning platforms, autonomous research agents, and event-driven microservices for fintech/insurtech.
+### 🔹 [HADES – AI Powered Learning Platform](https://github.com/ByteMechanic24/Hades-Ai-Assisted-Skill-Development-Platform)
+An adaptive learning platform orchestrating specialized AI agents (Skill Analyzer, Curriculum Generator, Resource Discovery) with FastAPI, Agno, and a PostgreSQL + pgvector datastore for personalized learning paths.
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ByteMechanic24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ByteMechanic24&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ByteMechanic24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ByteMechanic24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Generative AI & Agentic Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/Agno_(phidata)-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/ElevenLabs_API-0D1117?style=flat-square&color=5CE1BE" />
-</p>
-
-**Languages & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,fastapi" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&color=5CE1BE" />
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&color=5CE1BE" />
-  <img src="https://img.shields.io/badge/pgvector-0D1117?style=flat-square&color=5CE1BE" />
-</p>
-
-**Cloud, DevOps & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-5CE1BE?style=flat-square&color=5CE1BE" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-**🔹 [HADES — AI-Powered Learning Platform](https://github.com/ByteMechanic24/Hades-Ai-Assisted-Skill-Development-Platform)**
-Adaptive learning platform that unifies scattered docs, tutorials, and courses into one personalized curriculum. An event-driven multi-agent orchestrator (Skill Analyzer, Curriculum Generator, Resource Discovery) built with FastAPI + Agno drives it, backed by a PostgreSQL + pgvector store for learner-isolated RAG retrieval and persistent memory.
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/Agno-0D1117?style=flat-square&color=5CE1BE" />
-
-**🔹 [Synthex — Multi-Agent AI Research System](https://github.com/ByteMechanic24/Synthex)** · [Live demo](https://synthex-live.vercel.app/)
-Four specialized agents — Search, Reader, Writer, Critic — plan, call tools, and hand off state to autonomously produce and self-evaluate research reports. Built on a LangChain pipeline with Tavily Search for ranked web results and a BeautifulSoup-based scraper so the Reader agent gets full page content, not just snippets.
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/Tavily-0D1117?style=flat-square&color=5CE1BE" />
-
-**🔹 [Insora — AI-Powered Parametric Insurance Platform](https://github.com/ByteMechanic24/Insora-The-parametric-insurance-platform)** · [Live demo](https://gigshield-worker-application.onrender.com/)
-Built for gig workers in India at the Guidewire Devtrails Hackathon. Automates insurance payouts from trigger events instead of manual claims — real-time claim ingestion across 5+ microservices, weather/geospatial/news API integrations feeding an automated decision engine, and a Redis-backed event-driven architecture that cut claim verification latency by ~40%.
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-**🔹 [MeetMind](https://github.com/ByteMechanic24/MeetMind)**
-A RAG-based project pairing Whisper for audio transcription with a ChromaDB + HuggingFace embeddings pipeline for retrieval over that content.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square&color=5CE1BE" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
-**🔹 [QRForge](https://github.com/ByteMechanic24/QRForge)**
-A lightweight tool for generating and customizing QR codes.
-<br/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-
----
-
-### 📜 Certifications
-
-- [Agentic AI Foundations Associate (1Z0-1157-26) — Oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D088633EC8DC947D321FDD7A7D3EC8D9C3F3E604812D3CBEFDDC88526B577EBF)
-- [Associate AI Engineer for Developers — DataCamp](https://drive.google.com/file/d/1d885-yAXMsHEknmwsQH0y-BiLXM3jGRb/view?usp=sharing)
-- [SQL Fundamentals — DataCamp](https://drive.google.com/file/d/1-CR5UjXCBCbvQV2W05aDaxNA8c1EBgLn/view?usp=sharing)
-- AWS Academy Cloud Foundations — Amazon Web Services
-- Python Essentials 1–2 — Cisco Networking Academy
-
----
-
-### 🎓 Education
-
-**G L Bajaj Institute of Technology and Management**, Greater Noida, India
-Bachelor of Technology in Computer Science and Engineering · Oct 2023 – Present
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteMechanic24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5CE1BE&icon_color=5CE1BE&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMechanic24&layout=compact&hide_border=true&bg_color=0D1117&title_color=5CE1BE&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=ByteMechanic24&bg_color=0D1117&color=5CE1BE&line=5CE1BE&point=C9D1D9&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMechanic24&hide_border=true&background=0D1117&stroke=5CE1BE&ring=5CE1BE&fire=5CE1BE&currStreakLabel=5CE1BE" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ByteMechanic24/ByteMechanic24/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByteMechanic24&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<div align="center">
-  <sub>Thanks for stopping by! ⭐ a repo if something here is useful to you.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5CE1BE,100:0D1117&height=100&section=footer" width="100%"/>
+### 🎓 Certifications
+- Agentic AI Foundations Associate (1Z0-1157-26) – Oracle
+- Associate AI Engineer for Developers – DataCamp
+- SQL Fundamentals – DataCamp
+- AWS Academy Cloud Foundations – Amazon Web Services
+- Python Essentials 1-2 – Cisco Networking Academy
