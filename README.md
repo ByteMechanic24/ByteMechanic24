@@ -13,19 +13,61 @@ CSE student focused on Generative AI, Agentic Systems, and Backend Development.
 LangChain • LangGraph • Multi-Agent Orchestration • RAG • Prompt Engineering • Tool-Calling • Agno (phidata) • Eleven Labs API • Vector Databases (ChromaDB, Pinecone, pgvector)
 
 # 🚀 Featured Projects:
-### 🔹 [Synthex – Multi-Agent AI Research System](https://github.com/ByteMechanic24/Synthex)
-A 4-agent (Search, Reader, Writer, Critic) agentic workflow built with FastAPI + LangChain that autonomously produces and evaluates research reports using GPT-4o-mini and the Tavily Search API.  
-🔗 Live: [synthex-live.vercel.app](https://synthex-live.vercel.app)
 
-### 🔹 [MeetMind – AI Meeting Intelligence Platform](https://github.com/ByteMechanic24/MeetMind)
-Converts YouTube URLs or local audio/video into structured meeting intelligence (summaries, action items, decisions) using Whisper, LangChain, and Mistral AI, with RAG-based chat via ChromaDB.
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 [InSora / GigShield – AI-Powered Parametric Insurance Platform](https://github.com/ByteMechanic24/GigShield)
-An event-driven microservices platform for gig workers, built with Node.js, MongoDB, and Redis — cut claim verification latency by ~40% and query response time by ~30%.  
-🔗 Live: [gigshield-worker-application.onrender.com](https://gigshield-worker-application.onrender.com)
+### 🔹 Synthex
+**Multi-Agent AI Research System**
 
-### 🔹 [HADES – AI Powered Learning Platform](https://github.com/ByteMechanic24/Hades-Ai-Assisted-Skill-Development-Platform)
-An adaptive learning platform orchestrating specialized AI agents (Skill Analyzer, Curriculum Generator, Resource Discovery) with FastAPI, Agno, and a PostgreSQL + pgvector datastore for personalized learning paths.
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+A 4-agent (Search, Reader, Writer, Critic) agentic workflow that autonomously produces and evaluates research reports using GPT-4o-mini and the Tavily Search API.
+
+🔗 [Live Demo](https://synthex-live.vercel.app) · [Repo](https://github.com/ByteMechanic24/Synthex)
+
+</td>
+<td width="50%">
+
+### 🔹 MeetMind
+**AI Meeting Intelligence Platform**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+
+Converts YouTube URLs or local audio/video into structured meeting intelligence — summaries, action items, decisions — with RAG-based chat via ChromaDB.
+
+🔗 [Repo](https://github.com/ByteMechanic24/MeetMind)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 GigShield (InSora)
+**AI-Powered Parametric Insurance Platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+Event-driven microservices platform for gig workers — cut claim verification latency by ~40% and query response time by ~30%.
+
+🔗 [Live Demo](https://gigshield-worker-application.onrender.com) · [Repo](https://github.com/ByteMechanic24/GigShield)
+
+</td>
+<td width="50%">
+
+### 🔹 HADES
+**AI Powered Learning Platform**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Agno](https://img.shields.io/badge/Agno-6E56CF?style=flat-square)
+
+Orchestrates specialized AI agents (Skill Analyzer, Curriculum Generator, Resource Discovery) with a PostgreSQL + pgvector datastore for personalized learning paths.
+
+🔗 [Repo](https://github.com/ByteMechanic24/Hades-Ai-Assisted-Skill-Development-Platform)
+
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ByteMechanic24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -35,9 +77,3 @@ An adaptive learning platform orchestrating specialized AI agents (Skill Analyze
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ByteMechanic24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🎓 Certifications
-- Agentic AI Foundations Associate (1Z0-1157-26) – Oracle
-- Associate AI Engineer for Developers – DataCamp
-- SQL Fundamentals – DataCamp
-- AWS Academy Cloud Foundations – Amazon Web Services
-- Python Essentials 1-2 – Cisco Networking Academy
