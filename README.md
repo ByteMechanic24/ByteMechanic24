@@ -118,25 +118,3 @@ Bachelor of Technology in Computer Science and Engineering · Oct 2023 – Prese
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteMechanic24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5CE1BE&icon_color=5CE1BE&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMechanic24&layout=compact&hide_border=true&bg_color=0D1117&title_color=5CE1BE&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteMechanic24&hide_border=true&background=0D1117&stroke=5CE1BE&ring=5CE1BE&fire=5CE1BE&currStreakLabel=5CE1BE" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ByteMechanic24&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<div align="center">
-  <sub>Thanks for stopping by! ⭐ a repo if something here is useful to you.</sub>
-</div>
